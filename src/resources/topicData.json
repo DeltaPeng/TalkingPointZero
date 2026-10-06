@@ -1,0 +1,52 @@
+[
+  {
+    "type": "phrase",
+    "content": "You got this. One steps at a time.",
+    "source": "DeltaPeng"
+  },
+  {
+    "type": "compliment",
+    "content": "You really excel at being you",
+    "source": "www.exampleSite.com"
+  },
+  {
+    "type": "compliment",
+    "content": "The world is better with you in it",
+    "source": "www.exampleSite.com"
+  },
+  {
+    "type": "topic",
+    "content": "living in another country",
+    "source": ""
+  },
+  {
+    "type": "topic",
+    "content": "winning the lottery",
+    "source": ""
+  },
+  {
+    "type": "topic",
+    "content": "cats vs dogs",
+    "source": ""
+  },
+  {
+    "type": "topic",
+    "content": "does a soulmate or 'the One' exist?",
+    "source": ""
+  },
+  {
+    "type": "topic",
+    "content": "public display of affection",
+    "source": ""
+  },
+  {
+    "type": "topic",
+    "content": "siblings",
+    "source": ""
+  },
+  {
+    "type": "topic",
+    "content": "parents",
+    "source": ""
+  }
+]
